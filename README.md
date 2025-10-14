@@ -1,2 +1,2 @@
 # java-programe
-learn, pratices
+learning , pratices
