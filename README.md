@@ -85,4 +85,4 @@ B.Tech (CSE) Student
 
 ## ⭐ Support
 
-If you find this repository helpful, consider giving it a star and following my learning journey.
+If you find this repository helpful, consider giving it a star and following my learning journey
