@@ -1,5 +1,5 @@
 //Count digits of a number.
-import java.util.Scanner;
+import java.util.*;
 public class CountDigits {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
