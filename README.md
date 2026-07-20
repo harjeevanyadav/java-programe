@@ -71,7 +71,6 @@ This repository will continue to grow with:
 javac Main.java
 java Main
 ```
-
 ## 👨‍💻 Author
 
 **Harjeevan Kumar**  
